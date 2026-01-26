@@ -32,6 +32,9 @@ button:hover {
     align-items: center;
     background-color: #313647;
 }
+.google_form {
+    display: inline;
+}
 .side-bar {
     position: fixed;
     left: 0;
@@ -68,10 +71,6 @@ button:hover {
 }
 .playlist div{
     height: 60px;
-}
-/* .playlist div:nth-of-type(2n+1) {
-    background-color: #435675; */
-
 }
 .content {
     display: grid;
